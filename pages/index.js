@@ -109,6 +109,7 @@ export default function Home({ posts }) {
                 title={d.title}
                 description={d.description}
                 imgSrc={d.imgSrc}
+                techUsed={d.techUsed}
                 href={d.href}
               />
             ))}
