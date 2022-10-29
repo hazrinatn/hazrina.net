@@ -8,7 +8,7 @@ linkedin: https://www.linkedin.com/hazrinatn
 github: https://github.com/hazrinatn
 ---
 
-Hello, I'm Hazrina (pronounced: haaz-ree-na), a reseacrh scientist turned full-stack web developer. 
+Hello, I'm Hazrina _(pronounced: haaz-ree-na)_, a research scientist turned full-stack web developer. 
 
 After getting my Bachelor's degree in Biology, I worked as a research assistant conducting study and analyzing data about colorectal cancer detection. While analyzing data using R programming language (and a little bit of python), I was attracted to the fact that I can build things that solve problems through coding, so I started to learn building web apps in my spare time.
 

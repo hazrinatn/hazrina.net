@@ -7,9 +7,9 @@ const ContentSecurityPolicy = `
   default-src 'self' https://disqus.com https://c.disquscdn.com;
   script-src 'self' 'unsafe-eval' 'unsafe-inline' https://hazrina-net.disqus.com;
   style-src 'self' 'unsafe-inline';
-  img-src https://referrer.disqus.com;
+  img-src * blob: data:;
   media-src 'none';
-  connect-src https://links.services.disqus.com;
+  connect-src *;
   font-src 'self';
 `
 
