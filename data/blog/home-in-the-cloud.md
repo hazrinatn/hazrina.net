@@ -7,7 +7,7 @@ summary: Welcome to my blog!
 layout: PostSimple
 ---
 
-# Welcome :house_with_garden:
+# Welcome 🏡
 
 One of the main reasons I decided to learn coding is to make my own blog. I want to upgrade from the high-school-student-vibe blogspot one, to one that I can rightfully call my own without depending on any blogging platform. I thought this was a rather simple project that I can whip out in one weekend, but I couldn’t be more wrong. It took me months to learn coding from scratch— from HTML, CSS, JavaScript, to finally learn React and use its framework to build a web-blog.
 
