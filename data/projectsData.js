@@ -1,16 +1,14 @@
 const projectsData = [
   {
     title: 'Burger Brothers',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
+    description: `Restaurant landing page built using Bootstrap.`,
     imgSrc: '/static/images/burger-brothers.png',
     techUsed: 'Bootstrap • Javascript • HTML • CSS',
     href: 'https://hazrinatn.github.io/project-ecommerce/',
   },
   {
     title: 'Transmit',
-    description: `What if you could transmit ideas instantly? "Transmit" has many features to help you communicate to people you admire, you love, even your enemy with no hassle.`,
+    description: `A full-stack chat web application built using React and Express.`,
     imgSrc: '/static/images/transmit-chat-app.png',
     techUsed: 'Javascript • React • Node • Express • Socket.io',
     href: 'https://transmit-chat-app.herokuapp.com/',
