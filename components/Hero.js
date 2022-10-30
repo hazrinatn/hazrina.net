@@ -5,7 +5,7 @@ import PageTitle from './PageTitle'
 export default function Hero() {
   return (
     <div className="flex w-full flex-col justify-around">
-      <h1 className="my-20 select-none text-center text-8xl font-extrabold leading-none tracking-tightest sm:my-7 sm:text-8.5xl">
+      <h1 className="my-20 select-none text-center text-7xl font-extrabold leading-none tracking-tightest sm:my-7 sm:text-7xl">
         <span
           data-content="Blog."
           className="relative block before:absolute before:top-0 before:bottom-0 before:left-0 before:block before:w-full before:animate-gradient-background-1 before:px-2 before:text-center before:text-black before:content-[attr(data-content)] dark:before:text-white dark:before:content-[attr(data-content)]"
