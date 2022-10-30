@@ -31,7 +31,7 @@ export default function Hero() {
           </span>
         </span>
       </h1>
-      <div className="mt-20 mb-10 space-y-2 text-center md:space-y-5">
+      <div className="my-20 space-y-2 text-center md:space-y-5">
         <PageTitle>
           Hello There! I'm Hazrina{' '}
           <span role="img" aria-label="waving hand" className="wave">
