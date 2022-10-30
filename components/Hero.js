@@ -5,7 +5,7 @@ import PageTitle from './PageTitle'
 export default function Hero() {
   return (
     <div className="flex w-full flex-col justify-around">
-      <h1 className="my-20 select-none text-center text-7xl font-extrabold leading-none tracking-tightest sm:my-7 sm:text-7xl">
+      <h1 className="my-20 select-none text-center text-7xl font-extrabold leading-none tracking-tightest sm:my-7 md:text-8.5xl">
         <span
           data-content="Blog."
           className="relative block before:absolute before:top-0 before:bottom-0 before:left-0 before:block before:w-full before:animate-gradient-background-1 before:px-2 before:text-center before:text-black before:content-[attr(data-content)] dark:before:text-white dark:before:content-[attr(data-content)]"
@@ -31,7 +31,7 @@ export default function Hero() {
           </span>
         </span>
       </h1>
-      <div className="mt-16 space-y-2 md:space-y-5">
+      <div className="mt-20 mb-10 space-y-2 text-center md:space-y-5">
         <PageTitle>
           Hello There! I'm Hazrina{' '}
           <span role="img" aria-label="waving hand" className="wave">
