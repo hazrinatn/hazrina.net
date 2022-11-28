@@ -1,8 +1,11 @@
 import Link from '@/components/Link'
+import { PageSEO } from '@/components/SEO'
+import siteMetadata from '@/data/siteMetadata'
 
 export default function Now() {
   return (
     <div className="flex w-full flex-col justify-around">
+      <PageSEO title={`Now - ${siteMetadata.author}`} description={siteMetadata.description} />
       <div>
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
