@@ -14,7 +14,7 @@ const siteMetadata = {
   email: 'hazrinatn@gmail.com',
   github: 'https://github.com/hazrinatn',
   twitter: 'https://twitter.com/hazrinatn',
-  linkedin: 'https://www.linkedin.com/hazrinatn',
+  linkedin: 'https://www.linkedin.com/in/hazrinatn',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
