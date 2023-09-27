@@ -33,7 +33,7 @@ export default function Now() {
           </p>
         </div>
         <div>
-          <h3 className="py-7 text-2xl font-bold leading-7">Coffe Chats</h3>
+          <h3 className="py-7 text-2xl font-bold leading-7">Coffee Chats</h3>
           <p>
             I’ve been shying away from networking despite fully knowing the benefit of doing so. But
             after rereading Alexey’s post about making friends online and cold emailing, I mustered
